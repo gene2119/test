@@ -1,0 +1,210 @@
+       1  cd
+    2  gene2119@mail.ru
+    3  mkdir git
+    4  mkdir git_site
+    5  git_config-global user-name"Chzhen Natalia
+    6  git_config-global user-name"Chzhen Natalia"
+    7  git config-global user-name"Chzhen Natalia"
+    8  git config-global user-email
+    9  git init
+   10  git--version
+   11  git -- version
+   12  git config --global user.name"Natalya Chzhen"
+   13  git cinfig --list
+   14  git --help
+   15  git config--help
+   16  git config --help
+   17  git add --help
+   18  ls
+   19  ls -la
+   20  git init
+   21  ls-la
+   22  gut status
+   23  git status
+   24  gitignore -- PowerPoint Viewer
+   25  git add ->..." to include in what will be committed)
+   26          .bash_history
+   27  git status
+   28  git status--
+   29  git add -A
+   30  git status
+   31  git commit -m"Initial Commit"
+   32  git config --global user.email"gene2119@mail.ru"
+   33  git config --global.user.name"Natalya"
+   34  git log
+   35  git add -A
+   36  git add -video
+   37  git status
+   38  git branch calc-divide
+   39  git--version
+   40  git --version
+   41  git config --global user.name"Natalya"
+   42  git config --global user.email gene2119@mail.ru
+   43  git config --global core.editor"code --wait"
+   44  git config --global-e
+   45   mkdir Moon
+   46  cd Moon
+   47  git init
+   48   ls -a
+   49  open.git
+   50    echo hello>file1.txt
+   51  echo hello>file2.txt
+   52  git status
+   53  git add file1.txt file2.txt
+   54  git status
+   55  echo world>>file1.txt
+   56  git status
+   57  git add file1.txt
+   58  git commit -m"First commit"
+   59  git status
+   60  echo test>>file1.txt
+   61  git commit -am"Fixed the bug"
+   62  rm file2.txt
+   63  git ls-files
+   64  git add file2.txt
+   65  git ls-files
+   66  git status
+   67  git commit -m"remove unused code"
+   68  ls
+   69  mv file1.txt main.js
+   70  git status
+   71  git add file1.txt
+   72  git add main.js
+   73  git status
+   74  git mv main.js file1.js
+   75  git status
+   76  git commit -m"Refactor code"
+   77  mkdir logs
+   78  echo hello>logs/dev.log
+   79  git status
+   80  .gitignore
+   81  echo logs/>gitignore
+   82  git status
+   83  git add gitignore
+   84  git commit -m"Add gitignore"
+   85  .gitignore
+   86  git config --global diff.tool vscode
+   87  git config --global difftool vscode.cmd"code --wait --diff$LOCAL$REMOTE"
+   88  git log --oneline --reverse
+   89  history
+   90  git
+   91  ls
+   92  list -al
+   93  list --al
+   94  ls files
+   95  history
+   96  git add
+   97  git init
+   98  git add gitlog.txt
+   99  git init demo
+  100  mkdir demo
+  101  git add gitlog.txt
+  102  git status
+  103  ls
+  104  ls -files
+  105  less .gitconfig
+  106  git add gitlog
+  107  git branch
+  108  git add gitlog.txt
+  109  git status
+  110  git add demo
+  111  git gonfig --list
+  112  git config --list
+  113  git remote
+  114  git push -u origin master
+  115  git branch -M main
+  116  git push -u origin main
+  117  git push
+  118  git log
+  119  git remote add origin https://github.com/gene2119/test.git
+  120  git status
+  121  git add gitlog.txt
+  122  git init
+  123  git add gitlog.txt
+  124  git add file1
+  125  cd
+  126  git status
+  127  git commit -m"My Homework"
+  128  git status
+  129  git push origin main
+  130  git pull
+  131  git status
+  132  pwd
+  133  echo>gitlog.txt
+  134  ls
+  135  git add gitlog.txt
+  136  git commit -m"My Homework"
+  137  git status
+  138  git log
+  139  git remote add origin https://github.com/gene2119/test.git
+  140  git push -u origin main
+  141  git push -u origin master
+  142  git push -u origin main
+  143  git push --help
+  144  git pull
+  145  git branch --set-upstream-to=origin/main
+  146  git status
+  147  git pull
+  148  git push -u origin
+  149  git clone
+  150  git clone https^/github.com/storenth/react-reduxe-todo
+  151  git clone https/github.com/storenth/react-reduxe-todo
+  152  git clone https://github.com/storenth/react-reduxe-todo
+  153  git clone
+  154  git clone https://github.com/storenth/react-redux-todo
+  155  pwd
+  156  cd
+  157  demo
+  158  git cd
+  159  git add gitlog.txt
+  160  git commit -m "My Homework"
+  161  git log
+  162  git pull
+  163  git branch
+  164  git push u origin main
+  165  git push gitlog.txt u origin main
+  166  git status
+  167  git add gitlog.txt
+  168  git commit -m "Homework"
+  169  git push
+  170  git pull
+  171  git status
+  172  git pull origin fron
+  173  git checkout -b back
+  174  pwd
+  175  les.gitcofig
+  176  ls -al
+  177  git log
+  178  git chekout -b main
+  179  git init
+  180  git push u origin
+  181  git push
+  182  git push --set-upstream origin back
+  183  ls-ln
+  184  ls
+  185  git push --set-upstream origin maim
+  186  git push --set-upstream origin main
+  187  git push --set-upstream origin back
+  188  git pull
+  189  git add demo
+  190  git add gitlog
+  191  pwd
+  192  git log
+  193  git push gitlog
+  194  git pull gtilog
+  195  git push -u
+  196  cd
+  197  ls
+  198  cd test-github
+  199  cd test
+  200  git init
+  201  pwd
+  202  git branch
+  203  git branch -M main
+  204  git remote add origin
+  205  git push -u origin main
+  206  git push -u origin main
+  207  git branch -M back
+  208  git push -u origin back
+  209  git log
+  210  history
