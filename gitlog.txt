@@ -1,4 +1,4 @@
-       1  cd
+    1  cd
     2  gene2119@mail.ru
     3  mkdir git
     4  mkdir git_site
@@ -18,14 +18,11 @@
    18  ls
    19  ls -la
    20  git init
-   21  ls-la
    22  gut status
-   23  git status
    24  gitignore -- PowerPoint Viewer
    25  git add ->..." to include in what will be committed)
    26          .bash_history
    27  git status
-   28  git status--
    29  git add -A
    30  git status
    31  git commit -m"Initial Commit"
